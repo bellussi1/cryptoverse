@@ -2,8 +2,6 @@
 # Sobre
 Cryptoverse é uma página de cotação de valores, notícias e dashboard de cryptomoedas. Este é um projeto desenvolvido utilizando HTML, CSS, JavaScript e ReactJS. Além de várias APIs desenvolvidas por https://rapidapi.com.
 
-## Visão Geral
-Esta landing page foi criada com o objetivo de fornecer uma experiência envolvente aos visitantes, utilizando animações sutis e interações intuitivas para destacar os principais pontos do seu produto, serviço ou marca.
 
 ## Como Utilizar
 1. Clone este repositório em sua máquina local:
